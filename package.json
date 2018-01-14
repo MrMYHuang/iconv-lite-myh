@@ -1,7 +1,7 @@
 {
-    "name": "iconv-lite",
+    "name": "iconv-lite-myh",
     "description": "Convert character encodings in pure javascript.",
-    "version": "0.4.19",
+    "version": "0.4.21",
     "license": "MIT",
     "keywords": [
         "iconv",
@@ -9,8 +9,9 @@
         "charset",
         "icu"
     ],
-    "author": "Alexander Shtuchkin <ashtuchkin@gmail.com>",
+    "author": "Meng-Yuan Huang",
     "contributors": [
+        "Alexander Shtuchkin (https://github.com/ashtuchkin)",
         "Jinwu Zhan (https://github.com/jenkinv)",
         "Adamansky Anton (https://github.com/adamansky)",
         "George Stagas (https://github.com/stagas)",
@@ -26,11 +27,11 @@
     ],
     "main": "./lib/index.js",
     "typings": "./lib/index.d.ts",
-    "homepage": "https://github.com/ashtuchkin/iconv-lite",
-    "bugs": "https://github.com/ashtuchkin/iconv-lite/issues",
+    "homepage": "https://github.com/MrMYHuang/iconv-lite-myh",
+    "bugs": "https://github.com/MrMYHuang/iconv-lite-myh/issues",
     "repository": {
         "type": "git",
-        "url": "git://github.com/ashtuchkin/iconv-lite.git"
+        "url": "git://github.com/MrMYHuang/iconv-lite-myh.git"
     },
     "engines": {
         "node": ">=0.10.0"
